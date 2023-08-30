@@ -4,7 +4,7 @@
 
 ---
 #### 📢 ABOUT:
-**Find the true Scala experts by exploring its development history in Git and GitHub.**
+**Find the true Scala experts by exploring its development history in Git and GitHub**
 
 ---
 #### ⚠️ PROJECT:
