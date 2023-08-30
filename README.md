@@ -26,6 +26,6 @@
 - [x] Visualizing the contributions of each developer
 
 ---
-##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
+##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>
 ##### 🧑‍🏫 **Instructor**: Anita Sarma
 ##### 📖 **Career Track**: Data Scientist with Python
